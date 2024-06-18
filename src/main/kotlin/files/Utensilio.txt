@@ -1,0 +1,3 @@
+{"id":1,"nombre":"Batidora","descripcion":"Batidora eléctrica","enlaceCompra":"https://ejemplo.com/batidora"}
+{"id":2,"nombre":"Molde","descripcion":"Molde para hornear","enlaceCompra":"https://ejemplo.com/molde"}
+{"id":3,"nombre":"licuadora","descripcion":"sirve para licuar","enlaceCompra":"www.licua.com"}

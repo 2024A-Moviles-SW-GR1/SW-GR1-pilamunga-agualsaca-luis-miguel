@@ -1,0 +1,6 @@
+{"id":1,"nombre":"Postres","descripcion":"Un postre es una preparación culinaria que se sirve al final de una comida. Suelen ser dulces y pueden incluir frutas, pasteles, helados, chocolates, y más."}
+{"id":2,"nombre":"Entradas","descripcion":"Las entradas son los platos que se sirven al comienzo de una comida. Pueden incluir ensaladas, sopas, y otros aperitivos ligeros."}
+{"id":3,"nombre":"Platos Principales","descripcion":"Los platos principales son el plato fuerte de una comida. Pueden incluir carnes, pescados, pastas, y otros platillos sustanciosos."}
+{"id":4,"nombre":"Bebidas","descripcion":"Las bebidas son líquidos que se pueden consumir. Incluyen refrescos, jugos, bebidas alcohólicas, y más."}
+{"id":5,"nombre":"Ensaladas","descripcion":"Las ensaladas son mezclas de diversos ingredientes, principalmente verduras, que se sirven frías y aderezadas."}
+{"id":1,"nombre":"Postres","descripcion":"Recetas de postres"}

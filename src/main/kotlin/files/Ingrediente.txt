@@ -1,0 +1,5 @@
+{"id":1,"nombre":"Harina","cantidad":200.0,"unidadMedida":"gramos"}
+{"id":2,"nombre":"Azúcar","cantidad":100.0,"unidadMedida":"gramos"}
+{"id":3,"nombre":"huevos","cantidad":3.0,"unidadMedida":"unidades"}
+{"id":4,"nombre":"vodka","cantidad":1.0,"unidadMedida":"ml"}
+{"id":5,"nombre":"Naranja","cantidad":12.0,"unidadMedida":"u"}
