@@ -1,4 +1,4 @@
-package Controller
+package Controllers
 
 import com.Innova.entity.Categoria
 import com.Innova.service.GenericService
