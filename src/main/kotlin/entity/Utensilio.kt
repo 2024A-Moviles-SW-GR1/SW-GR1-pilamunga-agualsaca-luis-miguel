@@ -1,8 +1,8 @@
 package com.Innova.entity
 
-data class Ingrediente(
+data class Utensilio(
     override val id: Int,
     val nombre: String,
-    val cantidad: Double,
-    val unidadMedida: String
+    val descripcion: String,
+    val enlaceCompra: String
 ) : GenericSuperEntity()
